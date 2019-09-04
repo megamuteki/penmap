@@ -10,5 +10,5 @@ You can save six petablet and monitor pattern.
 
 # Sample picture
 memo:Select from PEN List and Monitor List. 
-![Penmap](https://raw.githubusercontent.com/megamuteki/images/master/panmap/penmap.png)
+![Penmap](https://raw.githubusercontent.com/megamuteki/images/master/panmap/penmap01.png)
 
