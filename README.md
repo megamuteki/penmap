@@ -1,6 +1,7 @@
 # penmap
 This is pentablet mapping script for multi monitor.
-You can save six petablet and monitor pattern.
+
+You can save six petablet and monitor combinations.
 
 # Install
 ./INSTALL.sh
