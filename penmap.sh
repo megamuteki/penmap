@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#COMMON
+opdir=/opt/pentablet/penmap
+export PATH="$PATH:$opdir"
 
 #-------ペンとモニタのリストを＄HOMEに作成する。----------------
 xinput_calibrator --list | sed -e '/Pad/d' -e  '/pad/d' -e '/Mouse/d' -e '/mouse/d' -e '/Keyobard/d' -e '/keyboard/d' >  $HOME/penlist.txt
