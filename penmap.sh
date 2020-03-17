@@ -101,7 +101,10 @@ monid=$(echo $penmapinfo | awk '{print $NF}' )
 
 #-------------以下ケースごとに作業を実施する。----------------
 
+<<<<<<< HEAD
 #xinput --map-to-output $(xinput list --id-only "XP-PEN Artist22E Pro") eDP-1
+=======
+>>>>>>> 758ad2b52e748e009d964a98e22b18456af04efe
 
 case  $pensw in
  
