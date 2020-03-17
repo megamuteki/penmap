@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PenMapping
+Name[jp]=ペンタブモニタマッピング
+Comment=Run pentablet monitor mapping
+Exec=bash /opt/pentablet/penmap/penmap.sh
+Terminal=false
+Type=Application
+Icon=video-display
+StartupNotify=true
+Categories=System;Settings;
